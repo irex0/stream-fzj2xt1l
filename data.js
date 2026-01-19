@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "266a0863-a2d8-4266-ad48-3675df7bf0b5",
+    "title": "Jagadhatri 5th January 2026 Episode 57",
+    "description": "",
+    "date": "2026-01-19T05:34:57.830Z",
+    "playlist": "videos/266a0863-a2d8-4266-ad48-3675df7bf0b5/playlist.m3u8",
+    "thumbnail": "videos/266a0863-a2d8-4266-ad48-3675df7bf0b5/thumb.jpg"
+  },
+  {
     "id": "cd3801b3-37a0-4659-b780-27573a5d47bb",
     "title": "Jagadhatri 5th January 2026 Episode 56",
     "description": "",
